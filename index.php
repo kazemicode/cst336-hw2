@@ -21,7 +21,7 @@
       <div id="scoreDisplay">
       Score: <span id="currentScore"></span>
       </div>
-      <img src="img/perspective-dice-six-faces-random.png" id="dieRoll" alt="Result of die roll">
+      <img src="img/perspective-dice-six-faces-random.png" class="img-fluid" id="dieRoll" alt="Result of die roll">
     </div>
     <!-- end die div -->
     
