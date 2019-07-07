@@ -70,6 +70,19 @@
     
   </div> <!--End jumbotron -->
  </div> <!--End main container -->
+  
+ <!-- Footer -->
+  <footer class="page-footer font-small blue pt-4" >
+    <div class="container-fluid text-center">
+     <img src="img/csumb-logo-white.png" alt="CSUMB logo">
+    </div>
+     <!-- Copyright -->
+  <div class="footer-copyright text-center py-3" id="copyright">
+    CST 336 Internet Programming 2019&copy; Kazemi  
+  </div>
+  <!-- Copyright -->
+  </footer>
+ <!-- End footer -->
 </body>
   
   <!-- Custom JS -->
